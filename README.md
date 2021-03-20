@@ -11,6 +11,8 @@ Final_report_CSML1020: Final project report/
 Project_presentation: Final project presentation/
 
 ### Data
-Data obtained from Kaggle: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+Data obtained from Kaggle: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia.
+The CSV data files were not uploaded on Git, as they were too large./
+To recreate the project you need to download the dataset and use the methods in Data_explanation_and_preparation and Final_models files to preprocess the data, before modelling.
 
 
